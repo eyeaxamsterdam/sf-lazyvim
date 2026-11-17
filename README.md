@@ -40,7 +40,7 @@ npm install --save-dev prettier prettier-plugin-apex
 
 ## What's customized
 
-- **Theme:** [dark-2026](https://github.com/boonyarit-iamsaard/dark-2026.nvim), with italics stripped everywhere
+- **Theme:** [base16-3024](https://github.com/boonyarit-iamsaard/dark-2026.nvim), with italics stripped everywhere
 - **Options:** system clipboard, 4-space indent, absolute line numbers, bufferline always shown
 - **Salesforce file types:** `.cls`/`.trigger`/`.apex` → Apex, `.page`/`.component` → Visualforce,
   `.soql`/`.sosl`, plus icons for Salesforce files and `*-meta.xml`
