@@ -88,6 +88,13 @@ return {
     opts = { ensure_installed = { "apex", "soql", "sosl", "sflog" } }, -- sflog: debug-log viewing (sf.nvim)
   },
 
+  -- apex_ls isn't auto-installed by mason-lspconfig (apex_jar_path below points
+  -- straight into Mason's folder instead), so tell Mason to install it directly.
+  {
+    "mason-org/mason.nvim",
+    opts = { ensure_installed = { "apex-language-server" } },
+  },
+
   -- language servers (installed automatically through Mason)
   {
     "neovim/nvim-lspconfig",
