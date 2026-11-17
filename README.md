@@ -1,3 +1,5 @@
+This is my personal nvim setup for Salesforce development. I use multiple machines and change my configs a lot so this is a way to at least keep them all in sync. 
+
 # sf-lazyvim
 
 A [LazyVim](https://github.com/LazyVim/LazyVim) config for Salesforce development:
@@ -19,7 +21,7 @@ and anonymous Apex, all without leaving Neovim.
 ## Install
 
 ```sh
-# back up any existing config first
+# (Optional) back up any existing config first
 mv ~/.config/nvim ~/.config/nvim.bak
 mv ~/.local/share/nvim ~/.local/share/nvim.bak
 
