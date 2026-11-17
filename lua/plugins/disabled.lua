@@ -1,7 +1,7 @@
 -- LazyVim core bundles these by default. Disabled here to strip down the setup --
 -- revert any single line to bring one back.
 return {
-  -- Unused alternate colorschemes (we use dark-2026 exclusively, see colorscheme.lua)
+  -- Unused alternate colorschemes (we use base16-3024 exclusively, see colorscheme.lua)
   { "folke/tokyonight.nvim", enabled = false },
   { "catppuccin/nvim", enabled = false },
 

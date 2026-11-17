@@ -1,11 +1,11 @@
 {
   "LazyVim": { "branch": "main", "commit": "0fa4a847929fc6beae40a3063615a58115678c34" },
+  "base16-nvim": { "branch": "master", "commit": "889f8cd25152e4a1d5dba7b15815a592d145d601" },
   "blink.cmp": { "branch": "main", "commit": "78336bc89ee5365633bcf754d93df01678b5c08f" },
   "bufferline.nvim": { "branch": "main", "commit": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3" },
   "catppuccin": { "branch": "main", "commit": "edefef779ab08ce1a4a404713e3012b0d202bd35" },
   "claudecode.nvim": { "branch": "main", "commit": "6ad8e0fdbda84486f13f7f1fa4802942f4877f13" },
   "conform.nvim": { "branch": "master", "commit": "016802de402556da54c36bd7359b441266b01cdd" },
-  "dark-2026.nvim": { "branch": "main", "commit": "4d19b8f1c1af75ae67d58506fb144e6b09d68e1f" },
   "flash.nvim": { "branch": "main", "commit": "5f0f270fdc7c5b0c21d903ee85b9cb06f2ac636a" },
   "friendly-snippets": { "branch": "main", "commit": "7a1c9f7897a4eb078b157a04c7af81e5869215b1" },
   "fzf-lua": { "branch": "main", "commit": "82ddfe6efc56480c052fd213e0cbb2f024dfd754" },
